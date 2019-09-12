@@ -1,5 +1,7 @@
 # Clover Bootloader for Gigabyte Z390 M Gaming Build
 
+For macOS Mojave Version 10.14.6 only.
+
 ## Hardware
 
 - Gigabyte Z390 M Gaming, rev. 1.0, Bios F7
@@ -18,12 +20,18 @@ Adjust boot sequence and fan settings to your liking.
 
 ## Clover
 
-ProductName: iMac19,1
+ProductName: iMacPro1,1
 
-TODO: Test iMacPro1,1
+TODO: Test 
 
 rest *tbd...*
 
+### iGPU acceleration
+
+* remove WhateverGreen.kext
+* Add clover ACPI patches 
+    * GFX0 -> IGPU
+    * HECI -> IMEI
 
 ### TODO
 
@@ -31,8 +39,8 @@ Not working:
 
 * Sound (Realtek ALC892)
 * Shutdown (it just reboots)
-* iGPU hardware acceleration
 
 Working:
 
 * Sleep
+* iGPU hardware acceleration
