@@ -39,6 +39,7 @@ Not working:
 
 * Sound (Realtek ALC892)
 * Shutdown (it just reboots)
+* Intel Power Gadget doesn't show iGPU?
 
 Working:
 

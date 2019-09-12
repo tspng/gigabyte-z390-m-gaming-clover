@@ -187,7 +187,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v dart=0 shikigva=60</string>
+		<string>-v dart=0</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>Debug</key>
