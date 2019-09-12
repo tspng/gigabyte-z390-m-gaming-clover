@@ -37,11 +37,12 @@ rest *tbd...*
 
 Not working:
 
-* Sound (Realtek ALC892)
-* Shutdown (it just reboots)
 * Intel Power Gadget doesn't show iGPU?
+* Some boot ACPI errors
 
 Working:
 
+* Sound (Realtek ALC892)
+* Shutdown (it just reboots)
 * Sleep
 * iGPU hardware acceleration
