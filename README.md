@@ -32,4 +32,7 @@ Not working:
 * Sound (Realtek ALC892)
 * Shutdown (it just reboots)
 * iGPU hardware acceleration
-* Sleep?
+
+Working:
+
+* Sleep
