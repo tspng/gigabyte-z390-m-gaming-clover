@@ -18,4 +18,18 @@ Adjust boot sequence and fan settings to your liking.
 
 ## Clover
 
-*tbd...*
+ProductName: iMac19,1
+
+TODO: Test iMacPro1,1
+
+rest *tbd...*
+
+
+### TODO
+
+Not working:
+
+* Sound (Realtek ALC892)
+* Shutdown (it just reboots)
+* iGPU hardware acceleration
+* Sleep?
