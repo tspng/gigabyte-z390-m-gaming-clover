@@ -41,20 +41,6 @@
 			<array>
 				<dict>
 					<key>Comment</key>
-					<string>HECI to IMEI</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					SEVDSQ==
-					</data>
-					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
 					<string>SAT0 to SATA</string>
 					<key>Disabled</key>
 					<false/>
