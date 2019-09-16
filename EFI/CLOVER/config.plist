@@ -81,20 +81,6 @@
 					R0lHRQ==
 					</data>
 				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>Fix bug Skylake+</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					oAqTU1RBUwE=
-					</data>
-					<key>Replace</key>
-					<data>
-					oAqRCv8L//8=
-					</data>
-				</dict>
 			</array>
 			<key>ReuseFFFF</key>
 			<false/>
