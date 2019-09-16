@@ -102,8 +102,6 @@
 		<true/>
 		<key>RenameDevices</key>
 		<dict>
-			<key>_SB.PCI0.PEG0.PEGP</key>
-			<string>GFX0</string>
 			<key>_SB.PCI0.RP05.PXSX</key>
 			<string>ARPT</string>
 			<key>_SB.PCI0.RP21.PXSX</key>
@@ -188,9 +186,13 @@
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
+				<key>device-id</key>
+				<data>
+				kj4AAA==
+				</data>
 				<key>AAPL,ig-platform-id</key>
 				<data>
-				PpgAAw==
+				AwCSPg==
 				</data>
 				<key>AAPL,model</key>
 				<string>Intel UHD 630</string>
@@ -584,7 +586,7 @@
 		<key>Mobile</key>
 		<false/>
 		<key>ProductName</key>
-		<string>iMacPro1,1</string>
+		<string>iMac19,1</string>
 		<key>SerialNumber</key>
 		<string>C02YN0N5JV3Q</string>
 		<key>SmUUID</key>
