@@ -41,20 +41,6 @@
 			<array>
 				<dict>
 					<key>Comment</key>
-					<string>HDAS to HDEF</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					SERBUw==
-					</data>
-					<key>Replace</key>
-					<data>
-					SERFRg==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
 					<string>HECI to IMEI</string>
 					<key>Disabled</key>
 					<false/>
