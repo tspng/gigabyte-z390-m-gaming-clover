@@ -46,3 +46,7 @@ Working:
 * Shutdown (it just reboots)
 * Sleep
 * iGPU hardware acceleration
+
+## Notes
+
+* Do not use [OsxAptioFix2Drv-free2000](https://www.reddit.com/r/hackintosh/comments/cfjyla/i_unleashed_a_plague_upon_you_guys_and_i_am_sorry/)!
