@@ -31,6 +31,8 @@ TODO: add some explanation
 * Sleep
 * iGPU hardware acceleration
 * Shutdown
+* Wi-Fi (works OOB with Broadcom BCM94360CD card)
+* Bluetooth (works OOB with Broadcom BCM94360CD card)
 
 ### Open Issues
 
