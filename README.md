@@ -9,6 +9,7 @@ Tested only with macOS Mojave Version 10.14.6.
 - Intel i7-8700k
 - Gigabyte RX VEGA 56 GAMING OC 8G
 - Corsair Vengeance LPX 32GB (2x16GB) 3200MHz
+- Broadcom BCM94360CD PCIe Adapter for Wi-Fi & Bluetooth 4.0
 
 
 ## BIOS Settings
