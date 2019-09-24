@@ -35,15 +35,20 @@ rest *tbd...*
 
 ### TODO
 
-Not working:
+### Not working
 
 * Intel Power Gadget doesn't show iGPU?
 * Some boot ACPI errors
 
-Working:
+        ACPI Error: Method parse/execution failed [\_TZ.TZ10._STA] (Node ffffff8051c25ba0), AE_AML_UINITIALIZED_LOCAL (20160938/psparse-632)
+        ACPI Error: Method execution failed [\_TZ.TZ10._STA] (Node ffffff8051c25ba0), AE_AML_UINITIALIZED_LOCAL (20160938/uteval-183)
+
+* Shutdown (it just reboots)
+
+
+### Working
 
 * Sound (Realtek ALC892)
-* Shutdown (it just reboots)
 * Sleep
 * iGPU hardware acceleration
 
