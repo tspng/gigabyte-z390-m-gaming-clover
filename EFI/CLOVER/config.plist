@@ -224,8 +224,6 @@
 	</dict>
 	<key>GUI</key>
 	<dict>
-		<key>Theme</key>
-		<string>clover-minimal</string>
 		<key>Hide</key>
 		<array>
 			<string>Preboot</string>
@@ -244,8 +242,19 @@
 			<key>Speed</key>
 			<integer>8</integer>
 		</dict>
+		<key>Scan</key>
+		<dict>
+			<key>Entries</key>
+			<true/>
+			<key>Legacy</key>
+			<false/>
+			<key>Tool</key>
+			<true/>
+		</dict>
 		<key>ShowOptimus</key>
 		<true/>
+		<key>Theme</key>
+		<string>clover-minimal</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
