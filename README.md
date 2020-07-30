@@ -1,5 +1,13 @@
 # Clover Bootloader for Gigabyte Z390 M Gaming Build
 
+---
+
+## This guide is now deprecated
+I have moved my bootloader from Clover to OpenCore.
+The current guide can is at https://github.com/tspng/gigabyte-z390-m-gaming-opencore
+
+---
+
 Tested only with macOS Mojave Version 10.14.6.
 
 
@@ -33,14 +41,6 @@ TODO: add some explanation
 * Shutdown
 * Wi-Fi (works OOB with Broadcom BCM94360CD card)
 * Bluetooth (works OOB with Broadcom BCM94360CD card)
-
-### Open Issues
-
-* Intel Power Gadget doesn't show iGPU?
-* Lots of ACPI errors (like the following)
-    * `ACPI Error: Method parse/execution failed [\_TZ.TZ10._STA] (Node ffffff8051c25ba0), AE_AML_UINITIALIZED_LOCAL (20160938/psparse-632)`
-    * `ACPI Error: Method execution failed [\_TZ.TZ10._STA] (Node ffffff8051c25ba0), AE_AML_UINITIALIZED_LOCAL (20160938/uteval-183)`
-
 
 ## Notes
 
